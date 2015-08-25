@@ -1,0 +1,1 @@
+﻿2015-08-25 08:22:45,638 [6] INFO  umbraco.BusinessLogic.Log - [P11220/T1/D2] Log scrubbed.  Removed all items older than 2015-06-26 08:22:45
